@@ -1,4 +1,3 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Documentação CodeClub
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Bem-vindo ao repositório de documentação do CodeClub! Aqui você encontrará informações essenciais para participantes, colaboradores e qualquer pessoa interessada em se envolver com o nosso clube.
