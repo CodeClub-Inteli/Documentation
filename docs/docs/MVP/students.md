@@ -9,3 +9,5 @@ Para escolher a instituição educacional na qual divulgaríamos o projeto, cont
 Realizamos uma visita ao ambiente, durante a qual adquirimos uma compreensão mais profunda da escola, estabelecemos um primeiro contato com as crianças e discutimos detalhes com a coordenação da instituição.
 
 Em conjunto com a coordenação, acordamos o horário ideal que se alinharia com as atividades dos alunos do CodeClub e as alunas do Inteli, estabelecendo-o das **8:30 às 10:00**. Além disso, definimos a quantidade de alunos, fixando em **15 estudantes** com idades entre **9 e 13 anos**, critério estabelecido com base nas orientações da organização oficial CodeClub brasileira.
+
+Foi elaborado um documento que assegura a obtenção da autorização dos responsáveis legais, envolvendo os menores de idade. Este documento também inclui a confirmação da responsabilidade pelo bem-estar das crianças, bem como a concessão de permissão para o uso de suas imagens.
